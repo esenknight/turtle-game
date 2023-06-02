@@ -6,7 +6,7 @@ Project: a simple animated game in which a turtle shoots lazers at ghosts
 Primary file: turtlegame.py  
 Supporting files: blueghost.gif, pinkghost.gif  
 Authors of primary file: S. N. Knight and Kate Jensen  
-Author of supporting files: Kate Jensen
+Author of supporting files: Kate Jensen  
 
 ## Running the Project
 
